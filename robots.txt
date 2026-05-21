@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://chriskimmes.github.io/reference-706l0h/sitemap.xml
